@@ -1,0 +1,6 @@
+[
+	["echo", "/bin/cat"],
+	["mopp-2018-t0-harmonic-progression-sum", "./tmp/test/harmonic-progression-sum"],
+	["mopp-2017-t4-k-means-clustering","/tmp/kmeans/mopp-2017-t4-k-means-clustering"],
+	["mopp-2017-t3-mandelbrot-set","/tmp/mandelbrot/mopp-2017-t3-mandelbrot-set"]
+]
